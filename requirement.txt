@@ -7,4 +7,7 @@ scikit-learn
 seaborn
 catboost
 xgboost
+flask 
+drill
+mlflow
 #-e .
