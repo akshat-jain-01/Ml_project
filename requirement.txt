@@ -10,4 +10,5 @@ xgboost
 flask 
 drill
 mlflow
+dagshub>=0.6.3
 #-e .
